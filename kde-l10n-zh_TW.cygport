@@ -2,7 +2,7 @@ inherit kde4
 
 NAME="kde-l10n-zh_TW"
 VERSION=17.08.3
-RELEASE=1
+RELEASE=2
 CATEGORY="KDE"
 SUMMARY="KDE Traditional Chinese translation files"
 DESCRIPTION="KDE Traditional Chinese translation files"
